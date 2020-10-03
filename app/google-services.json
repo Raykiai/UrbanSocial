@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663985090279",
+    "firebase_url": "https://urbansocial-ray.firebaseio.com",
+    "project_id": "urbansocial-ray",
+    "storage_bucket": "urbansocial-ray.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663985090279:android:12061278c399218293bc42",
+        "android_client_info": {
+          "package_name": "com.example.urbansocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663985090279-0b3b26hned6p82hhuaa0dc518onjgn55.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.urbansocial",
+            "certificate_hash": "e0af60435a7970e87e343ed84202c64c03a13c2b"
+          }
+        },
+        {
+          "client_id": "663985090279-vnhj04la5pgkdr60qkupu8o72i82nlqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmLC4d3j14My2H9xvZwlfuu1zIVMkCjwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663985090279-vnhj04la5pgkdr60qkupu8o72i82nlqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
